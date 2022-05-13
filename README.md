@@ -42,3 +42,6 @@
       }
     }
   ```
+
+## Aula 10
+  - Refatorando o componente Buttom com Typescript e Arrow function
