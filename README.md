@@ -8,3 +8,9 @@
   - ReportWebVitals removido;
   - Criado a pasta styles;
   - Index.css movido para a pasta styles
+
+## Aula 3
+  - Pasta pública: ajustes na estrutura básica do HTML
+  - criado a pasta componentes que utilizaremos para armazenar nossos componentes
+  - Criado um componente Button (por padrão o nome os componentes inicia com letra maiúscula)
+  - Criado um componente Form e importado no arquivo app.tsx
