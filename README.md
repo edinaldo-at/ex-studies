@@ -19,3 +19,6 @@
 
 ## Aula 5
   - Criado o componente List e importado no arquivo app.tsx
+
+## Aula 5
+  - Criado os items da lista dinamicamente
