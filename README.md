@@ -24,7 +24,19 @@
   - Criado os items da lista dinamicamente
 
 ## Aula 7
-  - Instalando e configurando o SASS
+  ### Instalando e configurando o SASS
+  `yarn add sass`
 
 ## Aula 8
   - Implementando o estilo da página e componentes
+
+## Aula 9 
+  ### Install typescript-plugin-css-modules
+  `yarn add -D typescript-plugin-css-modules`
+
+  ### Uma vez instalado, adicione este plugin ao seu `tsconfig.json`:
+  `{
+    "compilerOptions": {
+      "plugins": [{ "name": "typescript-plugin-css-modules" }]
+    }
+  }`
