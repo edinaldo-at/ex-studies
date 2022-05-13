@@ -12,5 +12,10 @@
 ## Aula 3
   - Pasta pública: ajustes na estrutura básica do HTML
   - criado a pasta componentes que utilizaremos para armazenar nossos componentes
-  - Criado um componente Button (por padrão o nome os componentes inicia com letra maiúscula)
-  - Criado um componente Form e importado no arquivo app.tsx
+  - Criado o componente Button (por padrão o nome os componentes inicia com letra maiúscula)
+
+## Aula 4
+  - Criado o componente Form e importado no arquivo app.tsx
+
+## Aula 5
+  - Criado o componente List e importado no arquivo app.tsx
