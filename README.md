@@ -22,3 +22,9 @@
 
 ## Aula 6
   - Criado os items da lista dinamicamente
+
+## Aula 7
+  - Instalando e configurando o SASS
+
+## Aula 8
+  - Implementando o estilo da página e componentes
