@@ -37,6 +37,6 @@
   ### Uma vez instalado, adicione este plugin ao seu `tsconfig.json`:
   `{`
     `"compilerOptions": {`
-      `"plugins": [{ "name": "typescript-plugin-css-modules" }]`
+      `"plugins": [{"name": "typescript-plugin-css-modules"}]`
     `}`
   `}`
