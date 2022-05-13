@@ -6,5 +6,5 @@
 ## Aula 2 - Estrutura do projeto e limpeza dos arquivos que não serão utilizados
   - Arquivos .css removidos;
   - ReportWebVitals removido;
-  - Criado a pasta styles css;
-  - Index.css movido para a pasta styles.css
+  - Criado a pasta styles;
+  - Index.css movido para a pasta styles
