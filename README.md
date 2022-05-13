@@ -35,8 +35,10 @@
   `yarn add -D typescript-plugin-css-modules`
 
   ### Uma vez instalado, adicione este plugin ao seu `tsconfig.json`:
-  `{`
-    `"compilerOptions": {`
-      `"plugins": [{"name": "typescript-plugin-css-modules"}]`
-    `}`
-  `}`
+  ```
+    {
+      "compilerOptions": {
+        "plugins": [{"name": "typescript-plugin-css-modules"}]
+      }
+    }
+  ```
